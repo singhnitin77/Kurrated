@@ -113,7 +113,7 @@
 
 @media (max-width: 544px) {
   .logos img {
-    height: 1.4rem;
+    height: 5rem;
   }
 
   .section-featured {
@@ -130,7 +130,8 @@
   .slider-1,
   .section-cta-small,
   .features,
-  .section-cta {
+  .section-cta,
+  .footer_wrapper {
     padding: 7.4rem 1.8rem;
   }
 
