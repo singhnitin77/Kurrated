@@ -46,6 +46,10 @@
     height: 8rem;
   }
 
+  .banner_wrapper .banner-title-text {
+    font-size: 1.8rem;
+  }
+
   .member {
     justify-content: center;
     justify-self: center;
